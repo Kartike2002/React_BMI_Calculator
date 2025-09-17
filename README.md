@@ -21,7 +21,7 @@ It allows users to input their **height** (in inches) and **weight** (in lbs) an
 ---
 
 ## 📸 Screenshot
-![App Screenshot](./screenshot.png)
+![App Screenshot](./Screenshot (56).png)
 
 ---
 
